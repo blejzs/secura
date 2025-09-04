@@ -41,4 +41,4 @@ A simple, standalone web application for generating Discord timestamps. Built wi
 
 The application supports multiple languages. You can switch between them using the language selection menu at the bottom right of the screen.
 
--# © 2025, Secura. All rights reserved. The "Secura" name and logo are trademarks of their respective owners. This website may contain links to other websites and resources provided by third parties. These links are provided for your convenience only. Secura has no control over the contents of those sites or resources and accepts no responsibility for them or for any loss or damage that may arise from your use of them.
+#### © 2025, Secura. All rights reserved. The "Secura" name and logo are trademarks of their respective owners. This website may contain links to other websites and resources provided by third parties. These links are provided for your convenience only. Secura has no control over the contents of those sites or resources and accepts no responsibility for them or for any loss or damage that may arise from your use of them.
