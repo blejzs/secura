@@ -19,7 +19,6 @@ A simple, standalone web application for generating Discord timestamps. Built wi
 * **Live Preview:** See how your timestamp will look in Discord in real-time.
 * **One-Click Copy:** Copy the generated timestamp code to your clipboard with a single click.
 * **Multi-Language Support:** Available in English and Polish.
-* **No Theme Switching:** Designed to always operate in a dark theme for consistency.
 
 ---
 
